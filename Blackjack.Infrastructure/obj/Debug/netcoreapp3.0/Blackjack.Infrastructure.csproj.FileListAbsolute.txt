@@ -1,0 +1,11 @@
+C:\dev\Blackjack\Blackjack.Infrastructure\obj\Debug\netcoreapp3.0\Blackjack.Infrastructure.csprojAssemblyReference.cache
+C:\dev\Blackjack\Blackjack.Infrastructure\obj\Debug\netcoreapp3.0\Blackjack.Infrastructure.AssemblyInfoInputs.cache
+C:\dev\Blackjack\Blackjack.Infrastructure\obj\Debug\netcoreapp3.0\Blackjack.Infrastructure.AssemblyInfo.cs
+C:\dev\Blackjack\Blackjack.Infrastructure\bin\Debug\netcoreapp3.0\Blackjack.Infrastructure.deps.json
+C:\dev\Blackjack\Blackjack.Infrastructure\bin\Debug\netcoreapp3.0\Blackjack.Infrastructure.dll
+C:\dev\Blackjack\Blackjack.Infrastructure\bin\Debug\netcoreapp3.0\Blackjack.Infrastructure.pdb
+C:\dev\Blackjack\Blackjack.Infrastructure\bin\Debug\netcoreapp3.0\Blackjack.Core.dll
+C:\dev\Blackjack\Blackjack.Infrastructure\bin\Debug\netcoreapp3.0\Blackjack.Core.pdb
+C:\dev\Blackjack\Blackjack.Infrastructure\obj\Debug\netcoreapp3.0\Blackjack.Infrastructure.csproj.CopyComplete
+C:\dev\Blackjack\Blackjack.Infrastructure\obj\Debug\netcoreapp3.0\Blackjack.Infrastructure.dll
+C:\dev\Blackjack\Blackjack.Infrastructure\obj\Debug\netcoreapp3.0\Blackjack.Infrastructure.pdb

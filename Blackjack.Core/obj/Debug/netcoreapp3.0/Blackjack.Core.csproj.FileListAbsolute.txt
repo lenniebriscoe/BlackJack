@@ -1,0 +1,8 @@
+C:\dev\Blackjack\Blackjack.Core\bin\Debug\netcoreapp3.0\Blackjack.Core.deps.json
+C:\dev\Blackjack\Blackjack.Core\bin\Debug\netcoreapp3.0\Blackjack.Core.dll
+C:\dev\Blackjack\Blackjack.Core\bin\Debug\netcoreapp3.0\Blackjack.Core.pdb
+C:\dev\Blackjack\Blackjack.Core\obj\Debug\netcoreapp3.0\Blackjack.Core.AssemblyInfoInputs.cache
+C:\dev\Blackjack\Blackjack.Core\obj\Debug\netcoreapp3.0\Blackjack.Core.AssemblyInfo.cs
+C:\dev\Blackjack\Blackjack.Core\obj\Debug\netcoreapp3.0\Blackjack.Core.dll
+C:\dev\Blackjack\Blackjack.Core\obj\Debug\netcoreapp3.0\Blackjack.Core.pdb
+C:\dev\Blackjack\Blackjack.Core\obj\Debug\netcoreapp3.0\Blackjack.Core.csprojAssemblyReference.cache
