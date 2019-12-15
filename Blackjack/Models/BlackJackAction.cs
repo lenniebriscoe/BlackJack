@@ -1,4 +1,4 @@
-﻿namespace Blackjack.Api.Controllers
+﻿namespace Blackjack.Api.Models
 {
     public enum BlackJackAction
     {
